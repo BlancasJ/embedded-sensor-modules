@@ -1,0 +1,21 @@
+mraa library python-inteledison
+
+http://iotdk.intel.com/docs/master/mraa/python/
+
+http://iotdk.intel.com/docs/master/mraa/python/mraa.html#aio
+
+http://iotdk.intel.com/docs/master/mraa/python/example.html#hello-gpio
+
+pyupm_grove library inteledison
+
+https://iotdk.intel.com/docs/master/upm/python/modules.html
+
+https://iotdk.intel.com/docs/master/upm/python/pyupm_grove.html
+
+example
+
+https://www.instructables.com/id/Getting-Started-with-Intel-Edison-Python-Programin/
+
+https://navinbhaskar.wordpress.com/2015/03/20/python-on-intel-galileoedison-part-1/
+
+https://www.instructables.com/id/Controlling-Edison-with-Python/
