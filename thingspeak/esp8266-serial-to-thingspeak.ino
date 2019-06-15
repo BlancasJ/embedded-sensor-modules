@@ -1,10 +1,8 @@
 #include <ESP8266WiFi.h>
 
 // Wi-Fi Settings
-const char* ssid = "NETWORK_NAME"; // your wireless network name (SSID)
-const char* password = "PASSWORD"; // your Wi-Fi network password
-//const char* ssid = "itmerida"; // your wireless network name (SSID)
-//const char* password = ""; // your Wi-Fi network password
+const char* ssid = "YOUR_NETWORK_NAME"; // your wireless network name (SSID)
+const char* password = "YOUR_PASSWORD"; // your Wi-Fi network password
 
 WiFiClient client;
 
@@ -50,6 +48,4 @@ void loop() {
           client.print(body);
     }
   }
-
-
 }
